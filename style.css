@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(0, 36, 114);
+    color: aliceblue;
+}
+
+h1 {
+    text-decoration: underline;
+    color:gold;
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+}
+
+h2 {
+    color: gold;
+    text-align: center;
+}
+
+h3 {
+    color: gold;
+    text-align: center;
+}
+
+div {
+    color:aliceblue;
+    background-color:black;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+
+a:link {
+    color:gold;
+}
+
+a:visited {
+    color:blueviolet;
+}
+
+a:hover {
+    color:orange;
+}
+
+.highlight {
+    color: aqua;
+}
